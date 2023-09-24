@@ -1,0 +1,11 @@
+{ request: 'GET /', level: 'info', timestamp: '2023-08-28 20:12:19' }
+{
+  request: '[GET] / - 200 (8ms)',
+  level: 'info',
+  timestamp: '2023-08-28 20:12:19'
+}
+{
+  request: '[GET] / - 200 (5ms)',
+  level: 'info',
+  timestamp: '2023-08-28 20:13:25'
+}
